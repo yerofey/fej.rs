@@ -28,15 +28,13 @@
 				justify-content: center;
 				align-items: center;
 
-				text-align: center;
-
 				cursor: default;
 
 				> .inner {
-					display: flex;
-					flex-direction: column;
-					justify-content: center;
-					align-items: center;
+					// display: flex;
+					// flex-direction: column;
+					// justify-content: center;
+					// align-items: center;
 
 
 					h1,
@@ -60,10 +58,10 @@
 					}
 
 					h2 {
-						// margin-top: -4.4vw;
+						margin-top: -.4vw;
 
 						// padding-left: .5vw;
-						line-height: 1.2;
+						line-height: 1.4;
 
 						font-size: 4.8vw;
 
