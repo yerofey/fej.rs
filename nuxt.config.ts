@@ -10,11 +10,11 @@ export default defineNuxtConfig({
 				{ rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
 				{ rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&amp;display=swap' },
 			],
-			title: 'Erofei S.'
+			title: 'Jerofej S.'
 		},
 	},
 	css: [
-		'@/assets/css/reset.css',
+		'@/assets/css/reset.min.css',
 		'modern-normalize/modern-normalize.css',
 	],
 })
