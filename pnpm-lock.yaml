@@ -6,6 +6,7 @@ specifiers:
   sass: ^1.56.1
   sass-loader: ^13.2.0
   vue: ^3.2.45
+  vue-router: ^4.1.6
 
 dependencies:
   modern-normalize: 1.1.0
@@ -15,6 +16,7 @@ devDependencies:
   sass: 1.56.1
   sass-loader: 13.2.0_sass@1.56.1+webpack@5.75.0
   vue: 3.2.45
+  vue-router: 4.1.6_vue@3.2.45
 
 packages:
 
