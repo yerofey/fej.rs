@@ -17,4 +17,5 @@ export default defineNuxtConfig({
 		'@/assets/css/reset.min.css',
 		'modern-normalize/modern-normalize.css',
 	],
-})
+	plugins: [{ src: '~/plugins/vercel.js', mode: 'client' }],
+});

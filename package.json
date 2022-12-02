@@ -15,6 +15,7 @@
     "vue-router": "^4.1.6"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.5",
     "modern-normalize": "^1.1.0"
   }
 }
