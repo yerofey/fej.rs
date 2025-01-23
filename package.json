@@ -9,13 +9,13 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.13",
-    "sass": "^1.56.1",
-    "sass-loader": "^13.2.0",
-    "vue": "^3.2.45",
-    "vue-router": "^4.1.6"
+    "sass": "^1.83.4",
+    "sass-loader": "^13.3.3",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
   },
   "dependencies": {
-    "@vercel/analytics": "^0.1.5",
+    "@vercel/analytics": "^0.1.11",
     "modern-normalize": "^1.1.0"
   }
 }
